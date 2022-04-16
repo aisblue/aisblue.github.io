@@ -35,7 +35,7 @@ var items_store = {
         explorer_emblem: {
              name: "Emblem",
              override_image: "Emblem",
-             level: 160,
+             level: 100,
              class: "emblem",
              type: "emblem",
              speed: "",
